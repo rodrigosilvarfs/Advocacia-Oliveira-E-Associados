@@ -1,5 +1,5 @@
 <h1 align="center">
-  Advocacia Oliveira E Associados</h1>
+  Advocacia - Oliveira E Associados</h1>
 <br>
 <h3 align="center">Tecnologias utilizadas: HTML Semântico, CSS, JavaScript e Responsividade.</h3>
 <br>
